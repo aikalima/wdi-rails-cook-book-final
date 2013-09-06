@@ -1,14 +1,15 @@
 == WDI Cook Book app 
 
-**A solid Rails reference app**
-Showing off:
+A solid Rails reference app showing off:
+
 - Use of Bootstrap CSS
 - Simple one-to-many, many-to-many model relationships
-- user auth from the ground up
-- forgot password feature with ActionMailer
+- User auth from the ground up
+- Forgot password feature with ActionMailer
 - Ajax with callback syncs (Stats)
 - Morris charts (Stats)
 - Rails ajax 'remote' (js.erb / Book comments) 
+- Cofeescript
 
 ==Install instructions
 
@@ -18,7 +19,7 @@ Showing off:
 - rake db:migrate
 - rake db:seed
 - start rails server
-- go to http://loclahost:3000
+- go to http://localhost:3000
 
 
 
